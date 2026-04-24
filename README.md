@@ -16,7 +16,7 @@ Built to demonstrate the practical application of LLMs in supply chain and procu
 
 ## 🖥️ Demo
 
-> *(Add a screenshot or screen recording GIF here after running the app)*
+![Demo](demo.png)
 
 ---
 
