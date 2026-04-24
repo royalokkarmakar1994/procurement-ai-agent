@@ -1,6 +1,6 @@
 # 🏭 Procurement AI Agent
 
-An intelligent procurement decision-support tool that scores vendors using weighted criteria and generates AI-powered recommendations using LangChain and OpenAI GPT.
+An intelligent procurement decision-support tool that scores vendors using weighted criteria and generates AI-powered recommendations using Groq LLaMA 3 and Streamlit.
 
 Built to demonstrate the practical application of LLMs in supply chain and procurement workflows.
 
